@@ -5,3 +5,4 @@ This is me trying to attempt the question please the code is tested and tried my
 
 I'm no expert not even good in py here but tried to learn pandas from gfg and freecodecamp rest lets see.
 
+name-arindam verma 
